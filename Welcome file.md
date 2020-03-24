@@ -39,6 +39,9 @@ There are two types of synchronization and they can complement each other:
 
 - The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+	
+## 同步单例	
+
 
 ## 静态内部类
 
@@ -142,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE1NzQwMCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTIyNTEzNzUzLC0zMzI0NTUzNjNdfQ==
 -->
